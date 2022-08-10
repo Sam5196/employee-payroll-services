@@ -23,8 +23,8 @@ public class EmployeePayRollService {
     }
 
     private static void readData() {
-        System.out.println("Please Enter the following details :");
-        System.out.println("Enter ID");
+        System.out.println("Please Enter the following details......");
+        System.out.println("Enter ID :");
         int id = sc.nextInt();
         sc.nextLine();
         System.out.println("Enter Name :");
